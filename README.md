@@ -1,11 +1,6 @@
 # E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
 
 ![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
-
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+This is an E-Commerce website created through MERN Stack. The website is fully responsive and also simulates the real order process. Well, as it's only for demonstration, the order placed aren't real and that's why no money gets debited.
